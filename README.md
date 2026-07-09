@@ -189,11 +189,15 @@ Displays available inventory by category.
 
 # 📷 Dashboard Preview
 
+<img width="1336" height="586" alt="image" src="https://github.com/user-attachments/assets/07e47bc0-4c4d-4275-b50a-cc14ec7f99cd" />
 
+------
 
+## 🎯 Conclusion
 
+The **Zepto Product Analytics Dashboard** transforms raw product data into meaningful business insights through interactive Excel dashboards and KPI reporting. It showcases expertise in **Microsoft Excel, data analysis, data visualization, and business intelligence**, enabling efficient monitoring of pricing, discounts, inventory, and category performance. This project reflects practical analytical skills and demonstrates the ability to build professional dashboards that support data-driven decision-making.
 
-
+------
 
 
   
