@@ -1,48 +1,67 @@
-🛒 Zepto Sales Data Dashboard
+# 🛒 Zepto Product Analytics Dashboard
 
-📌 Project Overview
+<p align="center">
 
-The Zepto Sales Data Dashboard is an interactive Excel dashboard designed to analyze sales performance and provide business insights. The dashboard transforms raw sales data into meaningful visualizations using Excel's data analysis features, helping users monitor KPIs, identify sales trends, and make data-driven decisions.
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-blue?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Data-Analytics-success?style=for-the-badge)
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-orange?style=for-the-badge)
 
-This project demonstrates practical skills in Microsoft Excel, including data cleaning, Pivot Tables, Pivot Charts, Slicers, Timelines, Conditional Formatting, and Dashboard Design.
+</p>
 
-🎯 Objectives
 
-Analyze overall sales performance.
-Track monthly sales trends.
-Compare profit across product categories.
-Identify top-performing products and customers.
-Analyze regional and state-wise sales.
-Build an interactive dashboard for business reporting.
+# 📌 Project Overview
 
-🛠 Tools & Technologies
+The **Zepto Product Analytics Dashboard** is an interactive Microsoft Excel dashboard designed to analyze product pricing, discounts, inventory availability, and category-wise performance.
 
-Microsoft Excel
-Pivot Tables
-Pivot Charts
-Slicers
-Timeline Filters
-Conditional Formatting
-Named Tables
-Excel Formulas
-Data Cleaning Techniques
+This dashboard transforms raw product data into meaningful business insights using Pivot Tables, Pivot Charts, KPI Cards, Slicers, and Interactive Visualizations, helping businesses monitor product performance and make data-driven decisions.
 
-📊 Dashboard Features
+---
+# 🎯 Project Objectives
 
-1. KPI Cards
+✅ Analyze product inventory
 
-The dashboard includes key performance indicators to provide a quick overview of business performance.
-KPIs Displayed
-Total Sales
-Total Profit
-Total Orders
-Average Sales
-Profit Margin (%)
+✅ Monitor pricing trends
 
-These KPI cards help users understand business performance at a glance.
+✅ Compare category performance
+
+✅ Identify high-discount products
+
+✅ Track out-of-stock items
+
+✅ Analyze available inventory
+
+✅ Create an interactive Excel Dashboard
+
+---
+# 📷 Dashboard Preview
+
+> 📸 Add your dashboard screenshot here
+
+```text
+Images/
+   Dashboard.png
+```
+
+---
+
+
+# 📊 Key Performance Indicators (KPIs)
+
+| 🎯 KPI | 📈 Value |
+|---------|----------:|
+| 📦 Total Products | **3,733** |
+| 🗂️ Total Categories | **3,733*** |
+| 💰 Average MRP | **15,680.12** |
+| 💵 Average Selling Price | **14,192.83** |
+| 🏷️ Average Discount | **7.62%** |
+| 📦 Total Available Quantity | **14,960** |
+| ❌ Out of Stock Products | **453** |
 
 <img width="1117" height="532" alt="image" src="https://github.com/user-attachments/assets/b7cc687a-faae-41e4-8fe0-40ac7170b6a3" />
 
+
+# 📊 Dashboard Features
 
 
 ## 📦 Product Category Analysis
@@ -115,74 +134,6 @@ Visualizes products offering the biggest discounts.
 - Pricing decisions
 
 <img width="962" height="632" alt="image" src="https://github.com/user-attachments/assets/55ec2bcd-fe73-411b-9d4f-3b0ac78c2aaa" />
-
-# 🛒 Zepto Product Analytics Dashboard
-
-<p align="center">
-
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-blue?style=for-the-badge)
-![Analytics](https://img.shields.io/badge/Data-Analytics-success?style=for-the-badge)
-![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-orange?style=for-the-badge)
-
-</p>
-
----
-
-# 📌 Project Overview
-
-The **Zepto Product Analytics Dashboard** is an interactive Microsoft Excel dashboard designed to analyze product pricing, discounts, inventory availability, and category-wise performance.
-
-This dashboard transforms raw product data into meaningful business insights using Pivot Tables, Pivot Charts, KPI Cards, Slicers, and Interactive Visualizations, helping businesses monitor product performance and make data-driven decisions.
-
----
-
-# 📷 Dashboard Preview
-
-> 📸 Add your dashboard screenshot here
-
-```text
-Images/
-   Dashboard.png
-```
-
----
-
-# 🎯 Project Objectives
-
-✅ Analyze product inventory
-
-✅ Monitor pricing trends
-
-✅ Compare category performance
-
-✅ Identify high-discount products
-
-✅ Track out-of-stock items
-
-✅ Analyze available inventory
-
-✅ Create an interactive Excel Dashboard
-
----
-
-# 📊 Key Performance Indicators (KPIs)
-
-| 🎯 KPI | 📈 Value |
-|---------|----------:|
-| 📦 Total Products | **3,733** |
-| 🗂️ Total Categories | **3,733*** |
-| 💰 Average MRP | **15,680.12** |
-| 💵 Average Selling Price | **14,192.83** |
-| 🏷️ Average Discount | **7.62%** |
-| 📦 Total Available Quantity | **14,960** |
-| ❌ Out of Stock Products | **453** |
-
-> *The workbook's KPI sheet reports 3,733 categories. You may want to verify whether this is intended or should represent the number of unique categories.*
-
----
-
-# 📊 Dashboard Features
 
 ## 📦 Product Category Analysis
 
