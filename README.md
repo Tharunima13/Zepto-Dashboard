@@ -189,7 +189,8 @@ Displays available inventory by category.
 
 # 📷 Dashboard Preview
 
-<img width="1336" height="586" alt="image" src="https://github.com/user-attachments/assets/07e47bc0-4c4d-4275-b50a-cc14ec7f99cd" />
+<img width="457" height="206" alt="image" src="https://github.com/user-attachments/assets/2ad9fb35-0511-4dbb-b70b-2a51929a6bcc" />
+
 
 ------
 
