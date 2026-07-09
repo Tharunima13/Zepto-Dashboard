@@ -34,17 +34,21 @@ This dashboard transforms raw product data into meaningful business insights usi
 ✅ Create an interactive Excel Dashboard
 
 ---
-# 📷 Dashboard Preview
+# 🛠️ Excel Features Used
 
-> 📸 Add your dashboard screenshot here
+| 🔧 Feature | ✅ Purpose |
+|------------|-----------|
+| 📋 Excel Tables | Organized data |
+| 📊 Pivot Tables | Data summarization |
+| 📈 Pivot Charts | Interactive visualization |
+| 🎛️ Slicers | Dynamic filtering |
+| 🎨 Conditional Formatting | Data highlighting |
+| 🧹 Data Cleaning | Improved data quality |
+| 🧮 Excel Formulas | KPI calculations |
+| 📑 Named Tables | Better data management |
 
-```text
-Images/
-   Dashboard.png
-```
 
 ---
-
 
 # 📊 Key Performance Indicators (KPIs)
 
@@ -60,9 +64,9 @@ Images/
 
 <img width="1117" height="532" alt="image" src="https://github.com/user-attachments/assets/b7cc687a-faae-41e4-8fe0-40ac7170b6a3" />
 
+----
 
 # 📊 Dashboard Features
-
 
 ## 📦 Product Category Analysis
 
@@ -86,7 +90,8 @@ Compare selling prices across categories.
 - Market analysis
 - Revenue planning
 
-<img width="907" height="542" alt="image" src="https://github.com/user-attachments/assets/90341e3e-6980-4785-8316-04ee532f8226" />
+<img width="939" height="542" alt="image" src="https://github.com/user-attachments/assets/d9121daf-b91e-47e2-bbd7-a9f4d7f6a5e5" />
+
 
 ## 🏷️ Average Discount by Category
 
@@ -98,7 +103,8 @@ Analyze discount percentages across product categories.
 - Promotion effectiveness
 - Price optimization
 
-<img width="750" height="571" alt="image" src="https://github.com/user-attachments/assets/f37e1621-3468-4a57-b7d2-176c00c3d4d2" />
+<img width="782" height="571" alt="image" src="https://github.com/user-attachments/assets/897112bc-5846-4331-bd30-85e5e036a4a2" />
+
 
 ## 🏆 Top 10 Most Expensive Products
 
@@ -135,16 +141,6 @@ Visualizes products offering the biggest discounts.
 
 <img width="962" height="632" alt="image" src="https://github.com/user-attachments/assets/55ec2bcd-fe73-411b-9d4f-3b0ac78c2aaa" />
 
-## 📦 Product Category Analysis
-
-Analyze products across different categories.
-
-### 🔍 Insights
-
-- Category-wise product distribution
-- Product comparison
-- Inventory overview
-
 ------
 
 ## ❌ Out of Stock Analysis
@@ -159,6 +155,8 @@ Monitor inventory shortages.
 
 <img width="752" height="452" alt="image" src="https://github.com/user-attachments/assets/13ac4fbb-a0ad-42fc-bf08-4692f8e30824" />
 
+----
+
 ## ⚖️ Product Weight Distribution by Category
 
 Analyze product weights across categories.
@@ -171,6 +169,7 @@ Analyze product weights across categories.
 
 <img width="823" height="532" alt="image" src="https://github.com/user-attachments/assets/522df367-9784-4fed-ae69-fb3741e3efe8" />
 
+-----
 
 ## 📦 Available Quantity by Category
 
@@ -185,6 +184,9 @@ Displays available inventory by category.
 
 <img width="955" height="597" alt="image" src="https://github.com/user-attachments/assets/dbab7129-5cd3-4fa9-9fba-bdb3de45a1c8" />
 
+-----
+
+# 📷 Dashboard Preview
 
 
 
