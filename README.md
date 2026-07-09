@@ -62,7 +62,8 @@ This dashboard transforms raw product data into meaningful business insights usi
 | 📦 Total Available Quantity | **14,960** |
 | ❌ Out of Stock Products | **453** |
 
-<img width="1117" height="532" alt="image" src="https://github.com/user-attachments/assets/b7cc687a-faae-41e4-8fe0-40ac7170b6a3" />
+<img width="1243" height="562" alt="image" src="https://github.com/user-attachments/assets/cfcea58c-8b5b-400c-b079-d16858d86139" />
+
 
 ----
 
